@@ -1,0 +1,10 @@
+{
+    "firstName" : "gilad",
+    "lastName" : "dana",
+    "company" : "RedHat",
+    "address1" : "hakatzir 1",
+    "city" : "moshav gan hashomron",
+    "postCode" : "38225",
+    "country" : "//*[@value='104']",
+    "region" : "//*[@value='1616']"
+}
